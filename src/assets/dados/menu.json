@@ -1,0 +1,52 @@
+[
+  {
+    "categoriaId": 1,
+    "descricao": "Tradicional",
+    "rota": "/produtos/estilo/tradicional"
+  },
+  {
+    "categoriaId": 1,
+    "descricao": "Esportivo",
+    "rota": "/produtos/estilo/esportivo"
+  },
+  {
+    "categoriaId": 1,
+    "descricao": "Elegante",
+    "rota": "/produtos/estilo/elegante"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Nike",
+    "rota": "/produtos/marca/nike"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Adidas",
+    "rota": "/produtos/marca/Adidas"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Gucci",
+    "rota": "/produtos/marca/gucci"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Hollister",
+    "rota": "/produtos/marca/hollister"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Camisetas",
+    "rota": "/produtos/tipo/camisetas"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Calcas",
+    "rota": "/produtos/tipo/Calcas"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Tenis",
+    "rota": "/produtos/tipo/tenis"
+  }
+]
